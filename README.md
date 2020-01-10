@@ -21,6 +21,6 @@ La arquitectura de microservicios funciona con un conjunto de pequeños servicio
   <li>Escalabilidad </li>
   <li>Funcionalidad modular, módulos independientes </li>
   <li>Libertad/ del desarrollador de desarrollar y desplegar servicios de forma independiente </li>
-  <li>Uso de contenedores permitiendo el despliegue y el desarrollo de la aplicación rápidamente<li>
+  <li>Uso de contenedores permitiendo el despliegue y el desarrollo de la aplicación rápidamente</li>
 </ul>
 
