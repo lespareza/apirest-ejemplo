@@ -1,3 +1,5 @@
+<h2>Descripción</h2>
+
 Ejemplo de API REST desarrollado con STS, creando proyecto Spring boot.
 
 El proyecto consume un api que devuelve el tiempo, se implemento con pruebas JUnit y Log.
